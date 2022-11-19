@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+}
+body{
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.main{
+    padding: 25px;
+    opacity: 0.6;
+    border-radius: 15px;
+    width: 75%;
+    margin: 10% 10% ;
+}
+.search{
+    height: 30px;
+    background-color: black;
+    color:goldenrod;
+}
+.btn{
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: black;
+    color:goldenrod;
+}
+.btn:hover{
+    background-color: rgb(5, 8, 103);
+}
